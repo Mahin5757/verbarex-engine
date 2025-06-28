@@ -4,7 +4,7 @@ Verbarex Engine is a lightweight, in-browser 3D game engine and editor built wit
 
 This project demonstrates the power of JavaScript libraries like Three.js and Cannon.js to create interactive 3D experiences on the web. It's a great starting point for anyone interested in web-based game development, 3D rendering, and physics simulations.
 
-![Verbarex Engine Screenshot] <blockquote class="imgur-embed-pub" lang="en" data-id="fBVyQhW"><a href="https://imgur.com/fBVyQhW">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Verbarex Engine Screenshot] [img]https://i.imgur.com/fBVyQhW.png[/img]
 
 ---
 
